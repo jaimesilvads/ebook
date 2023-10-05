@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T16:51:37.461Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="XHl8uzpkyddnd95azkwU" version="22.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-05T16:52:03.186Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="q4ZOECHnSIKaa_hOac1D" version="22.0.2" type="github">
   <diagram name="Página-1" id="ctzn2W-mY7dd-EB08RmM">
     <mxGraphModel dx="794" dy="424" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,12 +30,6 @@
         </mxCell>
         <mxCell id="yA30XqQOdwtVV5SdVBS8-9" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
           <mxGeometry x="130" y="110" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="yA30XqQOdwtVV5SdVBS8-11" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="370" y="180" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="yA30XqQOdwtVV5SdVBS8-12" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.archive_tier;" vertex="1" parent="1">
-          <mxGeometry x="390" y="200" width="44.8" height="44.8" as="geometry" />
         </mxCell>
         <mxCell id="yA30XqQOdwtVV5SdVBS8-13" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.archive;" vertex="1" parent="1">
           <mxGeometry x="175" y="267.5" width="35" height="55" as="geometry" />
